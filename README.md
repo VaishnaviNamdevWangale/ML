@@ -17,9 +17,9 @@ It serves as an educational resource for learning how to work with Numpy.
 * Aggregating and Statistical Functions
 
 🔥 Importing and Installing Numpy
-Install numpy (pip install numpy).
-Import it (import numpy as np).
-Check its version (np.__version__).
+          Install numpy (pip install numpy).
+          Import it (import numpy as np).
+          Check its version (np.__version__).
 
 📥 Array Creation
 Created arrays using np.array().
